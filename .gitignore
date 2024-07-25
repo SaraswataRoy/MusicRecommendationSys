@@ -1,0 +1,61 @@
+# Python
+*__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment Files
+.env
+*.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# Build directories
+build/
+dist/
+out/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Custom files
+*.tgz
+*.gz
+*.zip
+
+# Other specific files
+*.log
+*.pid
+*.pid.lock
+
+# Coverage reports
+coverage/
+
+# Jupyter Notebook Checkpoints
+*.ipynb_checkpoints/        
