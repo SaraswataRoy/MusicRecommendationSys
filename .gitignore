@@ -38,7 +38,7 @@ out/
 *.swp
 *.swo
 *.swn
-
+*.cache
 # Database
 *.sqlite
 *.sqlite3
